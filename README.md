@@ -50,7 +50,7 @@ sha256sum --check --ignore-missing SHA256SUMS.txt
 Windows (PowerShell), then compare the result with the line in `SHA256SUMS.txt`:
 
 ```powershell
-Get-FileHash .\Tenvor-Node_0.1.24-alpha.1_windows-x64-UNSIGNED-setup.exe -Algorithm SHA256
+Get-FileHash .\Tenvor-Node_0.1.25-alpha.1_windows-x64-UNSIGNED-setup.exe -Algorithm SHA256
 ```
 
 A matching checksum shows the file arrived intact. It doesn't prove who published it, so download only from this repository's Releases page.

@@ -18,7 +18,7 @@
 Needs a graphical desktop session with working OpenGL/EGL drivers.
 
 ```sh
-sudo apt install ./tenvor-node_0.1.24-alpha.1_amd64.deb
+sudo apt install ./tenvor-node_0.1.25-alpha.1_amd64.deb
 ```
 
 Then open "Tenvor Node" from your applications menu.
@@ -60,7 +60,7 @@ The desktop app sets these up for you. A headless node needs them in place befor
 Install the worker under a fixed name:
 
 ```sh
-install -D -m 0755 tenvor-worker_0.1.24-alpha.1_linux-x64 \
+install -D -m 0755 tenvor-worker_0.1.25-alpha.1_linux-x64 \
   ~/.local/lib/tenvor/decompute-worker
 ```
 
