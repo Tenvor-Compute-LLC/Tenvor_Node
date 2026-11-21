@@ -64,7 +64,7 @@ A matching checksum shows the file arrived intact. It doesn't prove who publishe
 
 ## Licences
 
-- Tenvor's own software is offered under [PolyForm Noncommercial 1.0.0](LICENSE.md). Operating an official build as a node on the Tenvor network is covered by the [Provider Terms](https://tenvor.io/legal/provider-terms). By downloading, installing or running a build you accept them.
+- Tenvor's own software is copyright Tenvor Compute LLC and is offered under [PolyForm Noncommercial 1.0.0](LICENSE.md). Operating an official build as a node on the Tenvor network is covered by the [Provider Terms](https://tenvor.io/legal/provider-terms). By downloading, installing or running a build you accept them.
 - The builds include third-party software under its own licences. Every release carries the notices for its files as `THIRD-PARTY-NOTICES` text files.
 - The Tenvor name and logo aren't licensed for other products.
 
